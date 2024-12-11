@@ -10,7 +10,7 @@ The IBM Data Analysis with Python course covers a wide range of topics and techn
 - **Model Development**: Develop linear regression models, evaluate their performance using metrics like R-squared and mean square error, and refine models using techniques such as polynomial regression and pipelines.
 - **Model Evaluation and Refinement**: Evaluate and refine models using Ridge Regression, identify overfitting and underfitting, and optimize models with Grid Search for hyperparameter tuning.
 
-For more details on the course, visit the [IBM Data Analysis with Python course](https://www.coursera.org/professional-certificates/ibm-data-analysis-python).
+For more details on the course, visit the [IBM Data Analysis with Python course](https://www.coursera.org/programs/sobma/learn/data-analysis-with-python?authProvider=bancolombia&source=search).
 
 ## Projects
 
