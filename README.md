@@ -43,11 +43,12 @@ For more details on the course, visit the [IBM Data Analysis with Python course]
 
 ### Project 2: Add Interactivity with Dash: User Input and Callbacks
 **Description**:
-In this project, I implemented a Dash application to create interactive visualizations based on user input. Using Dash callbacks, I allowed users to input a year, which dynamically updated the data displayed in the graphs.
+In this project, I explored how to add multiple graphs to a Dash dashboard and handle multiple outputs using Dash Callbacks. This project demonstrated how to create dynamic and interactive data visualizations by allowing the user to interact with multiple components simultaneously.
 
 **Objectives**:
 - Work with Dash callbacks to make the dashboard interactive.
 - Capture user input and use it to update the visualizations.
+- Learn how to add multiple graphs to a Dash dashboard.
 
 **Dataset Used**:
 Airline Reporting Carrier On-Time Performance dataset from Data Asset eXchange.
