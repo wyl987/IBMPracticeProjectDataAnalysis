@@ -1,16 +1,12 @@
-# IBM Data Analysis with Python - Practice Projects
-This repository contains practice projects completed as part of the IBM Data Analysis with Python course. The course provides hands-on experience in data analysis, utilizing popular Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn to manipulate and visualize data.
+# IBM Data Analysis with Python and Data Visualization with Python - Practice Projects
+This repository contains practice projects completed as part of the IBM Data Analysis with Python and Data Visualization with Python courses. Both courses provide hands-on experience in data analysis and visualization using popular Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Dash.
 
 ## Overview
-The IBM Data Analysis with Python course covers a wide range of topics and techniques for analyzing and visualizing data. In this repository, you will find projects where I applied the knowledge gained from the course to solve real-world data analysis challenges. These projects help in understanding how to:
+These projects highlight my ability to:
+- **Data Analysis**: Import, clean, and preprocess data, perform exploratory data analysis (EDA), and develop and evaluate regression models.
+- **Data Visualization**: Create and customize various types of plots, including line, scatter, bar, and pie charts. Implement interactive dashboards using Plotly and Dash to create compelling data stories.
 
-- **Importing Data Sets**: Learn how to import data from multiple sources using Python libraries to begin the data exploration process.
-- **Data Wrangling**: Master data cleaning and preprocessing tasks such as handling missing values, normalizing data, and converting categorical variables into numerical ones.
-- **Exploratory Data Analysis (EDA)**: Perform statistical analysis using measures like mean, median, and mode, visualize data distributions, and apply methods like Pearson correlation and Chi-square tests to analyze relationships.
-- **Model Development**: Develop linear regression models, evaluate their performance using metrics like R-squared and mean square error, and refine models using techniques such as polynomial regression and pipelines.
-- **Model Evaluation and Refinement**: Evaluate and refine models using Ridge Regression, identify overfitting and underfitting, and optimize models with Grid Search for hyperparameter tuning.
-
-For more details on the course, visit the [IBM Data Analysis with Python course](https://www.coursera.org/programs/sobma/learn/data-analysis-with-python?authProvider=bancolombia&source=search).
+For more details on the courses, visit the [IBM Data Analysis with Python course](https://www.coursera.org/learn/data-analysis-with-python) and [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization).
 
 ## Projects
 
