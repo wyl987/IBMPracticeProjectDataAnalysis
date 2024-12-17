@@ -14,7 +14,7 @@ For more details on the course, visit the [IBM Data Analysis with Python course]
 
 ## Projects
 
-### 1. Project 1: Insurance Cost Analysis
+### Project 1: Insurance Cost Analysis
 **Description**: In this project, I performed analytics operations on an insurance database that uses the following parameters:
 
 | Parameter        | Description                               | Content Type           |
@@ -40,3 +40,19 @@ For more details on the course, visit the [IBM Data Analysis with Python course]
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+### Project 2: Add Interactivity with Dash: User Input and Callbacks
+**Description**:
+In this project, I implemented a Dash application to create interactive visualizations based on user input. Using Dash callbacks, I allowed users to input a year, which dynamically updated the data displayed in the graphs.
+
+**Objectives**:
+- Work with Dash callbacks to make the dashboard interactive.
+- Capture user input and use it to update the visualizations.
+
+**Dataset Used**:
+Airline Reporting Carrier On-Time Performance dataset from Data Asset eXchange.
+
+**Libraries Used**:
+- Pandas
+- Plotly
+- Dash
